@@ -2,15 +2,13 @@
 
 Pokedex demo using PokeAPI to show how easy it is.
 
-This demo App features
-..* RESTful API usage
-..* Custom JSON decoding
-..* FutureBuilder
-..* Basic ListView usage
-..* Hero Animation (Flying an image from one screen to another)
-..* Dark Theme (Oh Yeah ☻)
-
-==============================
+###This demo App features
+* RESTful API usage
+* Custom JSON decoding
+* FutureBuilder
+* Basic ListView usage
+* Hero Animation (Flying an image from one screen to another)
+* Dark Theme (Oh Yeah 😁)
 
 ## Getting Started
 
