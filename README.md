@@ -2,7 +2,7 @@
 
 Pokedex demo using PokeAPI to show how easy it is.
 
-###This demo App features
+## This demo App features
 * RESTful API usage
 * Custom JSON decoding
 * FutureBuilder
