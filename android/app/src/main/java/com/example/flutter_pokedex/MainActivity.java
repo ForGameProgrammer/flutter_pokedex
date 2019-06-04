@@ -1,4 +1,4 @@
-package com.example.flutter_pokedex;
+package com.forgameprogrammer.flutter_pokedex;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
