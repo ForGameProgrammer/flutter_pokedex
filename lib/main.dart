@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     var title = "Flutter Pokedex";
     return MaterialApp(
       title: title,
-      theme: ThemeData.dark(),
+      theme: ThemeData.dark(), //Dark Theme
       home: MyHomePage(title: title),
       debugShowCheckedModeBanner: false,
     );
